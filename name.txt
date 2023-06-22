@@ -1,5 +1,4 @@
 GROUP MEMEBERS
-
 Name: MUHIMPUNDU Sandrine
 Registration: 221020303
 Department: Computer Science
