@@ -1,0 +1,9 @@
+GROUP MEMEBERS
+
+Name: MUHIMPUNDU Sandrine
+Registration: 221020303
+Department: Computer Science
+
+Name: IRUMVA Gedeon
+Registration: 221013355
+Department: Computer Science
