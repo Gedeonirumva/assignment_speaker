@@ -8,7 +8,6 @@ def list_all_speakers(request):
     return HttpResponse (template.render({speakers: data}, request ))
 
 def create_a_new_speaker(request):
-
     return render(request, 'speaker_create.html' )
 
 def view_single_speaker(request, speaker_id):
